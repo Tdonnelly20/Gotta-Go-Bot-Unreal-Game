@@ -1,5 +1,7 @@
 # Gotta Go-Bot
 
+Play Here: https://github.com/NickFrangie/RG4/releases/tag/beta
+
 Controls displayed in game. Press P to pause the game.
 
 Developed with Unreal Engine 5
