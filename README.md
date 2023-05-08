@@ -1,4 +1,6 @@
-# RG4
+# Gotta Go-Bot
+
+Controls displayed in game. Press P to pause the game.
 
 Developed with Unreal Engine 5
 
